@@ -1,6 +1,22 @@
-@import "./base.css";
 @import url("https://fonts.googleapis.com/css2?family=Bellefair&display=swap");
-
 body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
   font-family: "Bellefair", serif;
+}
+
+#app {
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+}
+
+:root {
+  --black: hsl(230, 35%, 7%);
+  --blue: hsl(231, 77%, 90%);
+  --white: hsl(0, 0%, 100%);
+  --dark: #0b0d17;
+  --gray: hsl(0, 0%, 50%);
 }

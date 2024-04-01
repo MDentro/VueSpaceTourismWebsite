@@ -1,7 +1,8 @@
-<script setup></script>
-
 <template>
-  <p>Space Tourism Website</p>
+  <TheHeather />
+  <router-view />
 </template>
 
-<style scoped></style>
+<script setup>
+import TheHeather from "./components/TheHeather.vue";
+</script>

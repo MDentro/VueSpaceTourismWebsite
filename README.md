@@ -33,3 +33,43 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Screenshots
+
+Desktop optimised for max width 1536px
+
+Desktop home
+![screenshot](./assets/desktopHome.png)
+
+Desktop destination
+![screenshot](./assets/desktopDestination.png)
+
+Desktop crew
+![screenshot](./assets/desktopCrew.png)
+
+Desktop technology
+![screenshot](./assets/desktopTechnology.png)
+
+Tablet home
+![screenshot](./assets/tabletHome.png)
+
+Tablet destination
+![screenshot](./assets/tabletDestination.png)
+
+Tablet crew
+![screenshot](./assets/tabletCrew.png)
+
+Tablet technology
+![screenshot](./assets/tabletTechnology.png)
+
+Mobile home\
+![screenshot](./assets/mobileHome.png)
+
+Mobile destination\
+![screenshot](./assets/mobileDestination.png)
+
+Mobile crew\
+![screenshot](./assets/mobileCrew.png)
+
+Mobile technology\
+![screenshot](./assets/mobileTechnology.png)
